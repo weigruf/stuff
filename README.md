@@ -1,1 +1,1 @@
-# stuff usine next.js
+# stuff using next.js
